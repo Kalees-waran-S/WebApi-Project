@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "uZJ7+p30Ea9RSUhvbjj8SJ/3XIfyq/GhQvU3uy2e5B0=",
+  "Source": "simpleapi",
+  "BasePath": "_content/simpleapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
